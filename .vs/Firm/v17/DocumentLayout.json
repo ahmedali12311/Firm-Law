@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\legalcourtscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\legalcourtscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\legalcourtform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\legalcourtform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\legalcourtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\legalcourtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\legalcourtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\legalcourtform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\legalcourts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\legalcourts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\courtcasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\courtcasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\usermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\usermanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\addeditlegalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\addeditlegalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\finishedcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\finishedcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\finishedcases.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\finishedcases.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\addeditlegalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\addeditlegalform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\addcourtcasesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\addcourtcasesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\courtcasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\courtcasemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\lawyermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\lawyermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\ongoingcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\ongoingcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\sqlquery10 (3).sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\sqlquery10 (3).sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\addcourtcasesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\addcourtcasesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\addcourtcasesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\addcourtcasesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\systemusercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\systemusercrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\systemuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|c:\\users\\og_ju\\source\\repos\\firm\\firm\\addeditlegalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F9819F-3F2E-4D36-BE3D-BFB2BA7732F9}|Firm\\Firm.csproj|solutionrelative:firm\\addeditlegalform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegalCourtForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourtForm.cs",
+              "RelativeDocumentMoniker": "Firm\\LegalCourtForm.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourtForm.cs [Design]",
+              "RelativeToolTip": "Firm\\LegalCourtForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:46:03.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\UserManagement.cs",
+              "RelativeDocumentMoniker": "Firm\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\UserManagement.cs",
+              "RelativeToolTip": "Firm\\UserManagement.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:02:55.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\UserManagement.Designer.cs",
+              "RelativeDocumentMoniker": "Firm\\UserManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\UserManagement.Designer.cs",
+              "RelativeToolTip": "Firm\\UserManagement.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAQwIsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:27:57.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FinishedCases.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\FinishedCases.Designer.cs",
+              "RelativeDocumentMoniker": "Firm\\FinishedCases.Designer.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\FinishedCases.Designer.cs",
+              "RelativeToolTip": "Firm\\FinishedCases.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:11:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LegalCourts.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourts.cs",
+              "RelativeDocumentMoniker": "Firm\\LegalCourts.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourts.cs",
+              "RelativeToolTip": "Firm\\LegalCourts.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:53:18.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LegalCourtsCrud.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourtsCrud.cs",
+              "RelativeDocumentMoniker": "Firm\\LegalCourtsCrud.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourtsCrud.cs",
+              "RelativeToolTip": "Firm\\LegalCourtsCrud.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:49:32.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LegalCourtForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourtForm.Designer.cs",
+              "RelativeDocumentMoniker": "Firm\\LegalCourtForm.Designer.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourtForm.Designer.cs",
+              "RelativeToolTip": "Firm\\LegalCourtForm.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowI8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:02:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LegalCourtForm.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourtForm.cs",
+              "RelativeDocumentMoniker": "Firm\\LegalCourtForm.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LegalCourtForm.cs",
+              "RelativeToolTip": "Firm\\LegalCourtForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:46:04.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\MainForm.cs",
+              "RelativeDocumentMoniker": "Firm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\MainForm.cs",
+              "RelativeToolTip": "Firm\\MainForm.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwKIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:57:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourtCaseManagement.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\CourtCaseManagement.cs",
+              "RelativeDocumentMoniker": "Firm\\CourtCaseManagement.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\CourtCaseManagement.cs",
+              "RelativeToolTip": "Firm\\CourtCaseManagement.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAiwDkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:57:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\UserManagement.cs",
+              "RelativeDocumentMoniker": "Firm\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\UserManagement.cs [Design]",
+              "RelativeToolTip": "Firm\\UserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:02:57.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCourtCasesForm.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddCourtCasesForm.cs",
+              "RelativeDocumentMoniker": "Firm\\AddCourtCasesForm.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddCourtCasesForm.cs",
+              "RelativeToolTip": "Firm\\AddCourtCasesForm.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:07:54.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LawyerManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LawyerManagement.cs",
+              "RelativeDocumentMoniker": "Firm\\LawyerManagement.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\LawyerManagement.cs [Design]",
+              "RelativeToolTip": "Firm\\LawyerManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:03:05.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEditLegalForm.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddEditLegalForm.cs",
+              "RelativeDocumentMoniker": "Firm\\AddEditLegalForm.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddEditLegalForm.cs",
+              "RelativeToolTip": "Firm\\AddEditLegalForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wEAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:45:30.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinishedCases.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\FinishedCases.cs",
+              "RelativeDocumentMoniker": "Firm\\FinishedCases.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\FinishedCases.cs",
+              "RelativeToolTip": "Firm\\FinishedCases.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAiwHQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:11:28.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEditLegalForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddEditLegalForm.Designer.cs",
+              "RelativeDocumentMoniker": "Firm\\AddEditLegalForm.Designer.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddEditLegalForm.Designer.cs",
+              "RelativeToolTip": "Firm\\AddEditLegalForm.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAApwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:44:50.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\MainForm.cs",
+              "RelativeDocumentMoniker": "Firm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\MainForm.cs [Design]",
+              "RelativeToolTip": "Firm\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:58:41.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourtCaseManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\CourtCaseManagement.cs",
+              "RelativeDocumentMoniker": "Firm\\CourtCaseManagement.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\CourtCaseManagement.cs [Design]",
+              "RelativeToolTip": "Firm\\CourtCaseManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:03:09.413Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OngoingCases.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\OngoingCases.cs",
+              "RelativeDocumentMoniker": "Firm\\OngoingCases.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\OngoingCases.cs [Design]",
+              "RelativeToolTip": "Firm\\OngoingCases.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:02:59.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SQLQuery10 (3).sql",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\SQLQuery10 (3).sql",
+              "RelativeDocumentMoniker": "Firm\\SQLQuery10 (3).sql",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\SQLQuery10 (3).sql",
+              "RelativeToolTip": "Firm\\SQLQuery10 (3).sql",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-19T12:53:21.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddCourtCasesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddCourtCasesForm.cs",
+              "RelativeDocumentMoniker": "Firm\\AddCourtCasesForm.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddCourtCasesForm.cs [Design]",
+              "RelativeToolTip": "Firm\\AddCourtCasesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:46:57.193Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Firm\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\DatabaseConnection.cs",
+              "RelativeToolTip": "Firm\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:50:43.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SystemUser.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\SystemUser.cs",
+              "RelativeDocumentMoniker": "Firm\\SystemUser.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\SystemUser.cs",
+              "RelativeToolTip": "Firm\\SystemUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:51:17.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SystemUserCrud.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\SystemUserCrud.cs",
+              "RelativeDocumentMoniker": "Firm\\SystemUserCrud.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\SystemUserCrud.cs",
+              "RelativeToolTip": "Firm\\SystemUserCrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:51:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddCourtCasesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddCourtCasesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Firm\\AddCourtCasesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddCourtCasesForm.Designer.cs",
+              "RelativeToolTip": "Firm\\AddCourtCasesForm.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwJkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:44:57.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddEditLegalForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddEditLegalForm.cs",
+              "RelativeDocumentMoniker": "Firm\\AddEditLegalForm.cs",
+              "ToolTip": "C:\\Users\\oG_Ju\\source\\repos\\Firm\\Firm\\AddEditLegalForm.cs [Design]",
+              "RelativeToolTip": "Firm\\AddEditLegalForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:44:40.446Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
